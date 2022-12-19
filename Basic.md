@@ -123,4 +123,12 @@ not
 return is boolean value i.e. True and False.
 ```
 
+# Special operrator
 
+1. in - (Membership function)
+2. is - if both the object are at same memory location. if id(a) == id(b) or where a=b=6, so a is b => True
+
+return boolean
+
+
+# conversion from list to tupel, list to dictionary, list to string array.
